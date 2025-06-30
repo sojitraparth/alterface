@@ -1,9 +1,3 @@
-
-
-[![License](https://img.shields.io/github/license/sojitraparth/alterface?style=flat-square)](LICENSE.md)
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)](https://www.python.org/downloads/)
-[![Install via pip](https://img.shields.io/badge/pip%20install-pip%20install%20git%2Bhttps%3A%2F%2Fgithub.com%2Fsojitraparth%2Falterface.git-blue?style=flat-square)](https://github.com/sojitraparth/alterface#installation)
-
 # Alterface
 …
 # Alterface
