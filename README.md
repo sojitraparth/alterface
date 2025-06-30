@@ -1,4 +1,4 @@
-![Alterface Logo](assets/alterfacelogo.png)
+
 
 [![License](https://img.shields.io/github/license/sojitraparth/alterface?style=flat-square)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)](https://www.python.org/downloads/)
